@@ -2,23 +2,23 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: about
+  - title: Info
     entries:
-      - title: "currently: researching formal methods for concurrency @ the university of qld."
-        url: false
-      - title: cv
-        url: assets/personal/cv.pdf
+      # - title: cv
+      #   url: assets/personal/cv.pdf
       - title: email
-        url: mailto:nasosev@pm.removethis.me
+        url: mailto:tmevangelou at gmail dot com
       - title: github
-        url: https://github.com/nasosev/
-      - title: twitter
-        url: https://twitter.com/nasosev
+        url: https://github.com/red-jane/
 
-  - title: posts
+
+  - title: Posts
     post_list: true
     url: false
     entries: false
 
-  - title: rss feed
+  - title: About me
+    url: about
+
+  - title: RSS feed
     url: feed.xml

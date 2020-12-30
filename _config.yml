@@ -1,9 +1,9 @@
-title: nasos evangelou-oost
-email: nasosev@pm.removethis.me
-description: homepage
+title: Trang Nguyen
+email: tmevangelou at gmail dot com
+description: Trang Nguyen's homepage
 baseurl: ""
 # url: "https://riggraz.dev"
-github_username: nasosev
+github_username: red-jane
 
 permalink: /:slug.html
 
@@ -17,7 +17,7 @@ theme_config:
   appearance: "dark"
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
+  show_description: true # show blog description in home page
 
 plugins:
   - jekyll-feed

@@ -1,8 +1,11 @@
 ---
 layout: page
-title: About
+title: About me
 ---
 
-This is an example page!
+I am currently completing my Bachelor's degree in Mathematics focusing on Statistics at the University of Queensland. My main areas of interest are
+- Probability & Statistics
+- Financial Mathematics
+- Computational Science
 
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+I also love playing board games and computer games in my free time.
